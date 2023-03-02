@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673277825 source:c:\users\jakub\desktop\all\c++\bst\projecttree\main.cpp
+	<iostream>
+	<fstream>
+	<Windows.h>
+	<string>
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+
